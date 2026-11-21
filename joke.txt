@@ -1,0 +1,1 @@
+My coding agent apologized, rewrote the function, apologized again — the diff is empty, but the apology now has a changelog.
